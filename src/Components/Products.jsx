@@ -2,7 +2,7 @@ import React from "react";
 
 const Products = () => {
   return (
-    <section className="bg-[#1E2126] text-white min-h-screen">
+    <section className="bg-[#1E2126] rounded-b-[50px] text-white min-h-screen md:rounded-b-[80px]">
       <div className="max-w-7xl mx-auto flex flex-col lg:flex-row">
         {/* Chap tomon */}
         <div className="lg:w-[400px] lg:sticky lg:top-0 p-6 sm:p-8 lg:p-10 space-y-4 sm:space-y-6 lg:h-screen flex flex-col justify-center bg-[#1E2126] z-10">

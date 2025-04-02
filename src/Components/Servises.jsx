@@ -12,7 +12,7 @@ const services = [
 
 function Services() {
   return (
-    <div className="bg-white text-black py-12 px-4 sm:px-6 rounded-b-[50px]">
+    <div className="bg-white text-black py-12 px-4 sm:px-6 rounded-b-[50px] md:rounded-b-[80px]">
       <h2 className="text-3xl font-bold text-center">Bizning Xizmatlar</h2>
       <p className="text-center text-gray-600 mb-8">Ofis jihozlarini professional ta'mirlash</p>
       
