@@ -32,11 +32,11 @@ function HeroPage() {
           <div className="flex items-center gap-6 mt-6">
             <div className="flex items-center gap-2">
               
-              <img src="/quality-icon.png" alt="Quality" className="w-6 h-6" />
+              <img src="https://printzapravka.uz/wp-content/uploads/2025/03/ec1072de-582c-4b57-86dd-1e2beca66fee_removalai_preview.png" alt="Quality" className="w-15 h-15" />
               <span>Tez va yuqori sifat</span>
             </div>
             <div className="flex items-center gap-2">
-              <img src="/guarantee-icon.png" alt="Guarantee" className="w-6 h-6" />
+              <img src="https://printzapravka.uz/wp-content/uploads/2025/03/b187f6d1-d5ae-4776-af8a-0d0cd6c2fe43_removalai_preview.png" alt="Guarantee" className="w-15 h-15" />
               <span>Xizmat kafolati</span>
             </div>
           </div>
